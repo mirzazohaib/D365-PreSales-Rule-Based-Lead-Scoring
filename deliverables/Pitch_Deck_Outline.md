@@ -26,7 +26,7 @@
 ### **Slide 3: Live Demo**
 
 - **Title:** See It in Action
-- **(Visual: embed here `ai-lead-scoring-demo.gif`)**
+- **(Visual: embed here `rule-based-lead-scoring-demo.gif`)**
 - **Script:** "Watch as we create a lead with a high budget and referral source. Within seconds, the system recognizes the value, assigns a score of 100, and flags it for immediate follow-up."
 
 ### **Slide 4: Why Rule-Based?**
